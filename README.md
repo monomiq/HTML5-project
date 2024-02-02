@@ -1,0 +1,1 @@
+This was a school project using HTML5 & CSS. I decided to make a web page for an esports team that had pages for player information, links to team's social media pages and a main page about the team. 
